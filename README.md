@@ -2,6 +2,8 @@
 TYSTHER is allows you to search for restaurants list and thier menu and other information such as the rating and comments.
 Once the user has found matching Restaurant, they have the ability to writer each restaurant review (giving rating and comment) The reviews list can be provide reviewer infomation and most recent review and top rating as well.
 
+<img src="/images/TYESTHER.png" alt="TYESTHER Homepage" width="730"/>
+
 [TYESTHER Demo](https://youtu.be/xXt5SJUr9_g)
 
 ## Usage Guide
@@ -15,18 +17,17 @@ Once the user has found matching Restaurant, they have the ability to writer eac
 5. Now you are available to see in your browser URL: http://localhost:3000/login
 (UserName : Demo, PSW: esther123, or create an account)
 
-# README
 
-This TYSTHER will have the following functionalities: 
+## This TYSTHER will have the following functionalities: 
 
-# USERS VALIDATION
+### USERS VALIDATION
 - Users can only open 1 account (name must be provid and unique)
 
 - Users' age must be at least 14 no more than 130
 
 - Users should not be able to login if they enter an incorrect password
 
-# REVIEW VALIDATION
+### REVIEW VALIDATION
 - Users can only leave one review per restaurant
 
 - Users can only leave one review after restaurant visit (date presenc)
@@ -35,7 +36,7 @@ This TYSTHER will have the following functionalities:
 
 - Users can give a rating between 1 to 5
 
-# USERS
+### USERS
 - Users should be able to create an account / sign up (user_id, password)
 
 - Users should be have name, age, user_id, password
@@ -43,7 +44,7 @@ This TYSTHER will have the following functionalities:
 - Users should be authenticated upon subsequent login attempts
 
 
-# FOOD
+### FOOD
 - Users should be able to find restaurant menu
 
 - Food index page should have list of food
@@ -54,12 +55,12 @@ This TYSTHER will have the following functionalities:
 
 - Food show page should display food image
 
-# LOCATION
+### LOCATION
 - A location should link to only one restaurant
 
 - Users should be able to find restaurant location from restaurant show page
 
-# RESTAURANT
+### RESTAURANT
 - Restaurant's show page should show the restaurant's name
 
 - Restaurant's show page should have the restaurant's average rating and a link to the reviews made about it
@@ -68,7 +69,7 @@ This TYSTHER will have the following functionalities:
 
 - Restaurant's show page should have the restaurant's menu and a link to the food show page
 
-# Review
+### REVIEW
 - Review show page should be able to find reviewers(User name)
 
 - Review show page should be able to find restaurant name 
