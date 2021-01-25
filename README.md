@@ -13,6 +13,7 @@ Once the user has found matching Restaurant, they have the ability to writer eac
 3. Type bundle install, rails db:migrate, rails db:seed
 4. In terminal, type in 'rails s' to start the app.
 5. Now you are available to see in your browser URL: http://localhost:3000/login
+(UserName : Demo, PSW: esther123, or create an account)
 
 # README
 
